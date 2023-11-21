@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/izzetomarovcff?tab=repositories](https://github.com/izzetomarovcff?tab=repositories)
+- 👨‍💻 All of my projects are available at [Portfolio](https://izzat-omarov.vercel.app)
 
 - 💬 Ask me about **React**
 
